@@ -6,6 +6,7 @@ const preferDefault = m => m && m.default || m
 
 exports.components = {
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/javonfowler/PursuitCore/Extra/GatsbyWorkshop/.cache/dev-404-page.js"))),
+  "component---src-pages-about-mdx": hot(preferDefault(require("/Users/javonfowler/PursuitCore/Extra/GatsbyWorkshop/src/pages/about.mdx"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/javonfowler/PursuitCore/Extra/GatsbyWorkshop/src/pages/index.js")))
 }
 
